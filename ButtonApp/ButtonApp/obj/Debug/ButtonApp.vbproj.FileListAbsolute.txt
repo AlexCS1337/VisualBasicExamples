@@ -1,0 +1,8 @@
+K:\Files\IPT\Programming\Visual Studio 2005\Projects\ButtonApp\ButtonApp\obj\Debug\ButtonApp.xml
+K:\Files\IPT\Programming\Visual Studio 2005\Projects\ButtonApp\ButtonApp\obj\Debug\ButtonApp.pdb
+K:\Files\IPT\Programming\Visual Studio 2005\Projects\ButtonApp\ButtonApp\obj\Debug\ResolveAssemblyReference.cache
+K:\Files\IPT\Programming\Visual Studio 2005\Projects\ButtonApp\ButtonApp\obj\Debug\Button_Application.Form1.resources
+K:\Files\IPT\Programming\Visual Studio 2005\Projects\ButtonApp\ButtonApp\obj\Debug\Button_Application.Resources.resources
+K:\Files\IPT\Programming\Visual Studio 2005\Projects\ButtonApp\ButtonApp\obj\Debug\GenerateResource-ResGen.read.1.tlog
+K:\Files\IPT\Programming\Visual Studio 2005\Projects\ButtonApp\ButtonApp\obj\Debug\GenerateResource.read.1.tlog
+K:\Files\IPT\Programming\Visual Studio 2005\Projects\ButtonApp\ButtonApp\obj\Debug\GenerateResource-ResGen.write.1.tlog

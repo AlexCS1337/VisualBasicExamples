@@ -1,0 +1,10 @@
+bin\Debug\ButtonApp.exe
+bin\Debug\ButtonApp.pdb
+bin\Debug\ButtonApp.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Button_Application.Form1.resources
+obj\Debug\Button_Application.Resources.resources
+obj\Debug\ButtonApp.vbproj.GenerateResource.Cache
+obj\Debug\ButtonApp.exe
+obj\Debug\ButtonApp.xml
+obj\Debug\ButtonApp.pdb

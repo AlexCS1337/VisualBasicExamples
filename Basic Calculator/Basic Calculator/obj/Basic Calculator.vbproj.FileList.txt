@@ -1,0 +1,10 @@
+bin\Debug\Basic Calculator.exe
+bin\Debug\Basic Calculator.pdb
+bin\Debug\Basic Calculator.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+obj\Debug\Basic Calculator.vbproj.GenerateResource.Cache
+obj\Debug\Basic Calculator.exe
+obj\Debug\Basic Calculator.xml
+obj\Debug\Basic Calculator.pdb
