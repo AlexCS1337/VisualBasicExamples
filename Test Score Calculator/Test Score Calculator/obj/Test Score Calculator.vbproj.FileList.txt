@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+bin\Debug\Test Score Calculator.exe
+bin\Debug\Test Score Calculator.pdb
+bin\Debug\Test Score Calculator.xml
+obj\Debug\Test Score Calculator.vbproj.GenerateResource.Cache
+obj\Debug\Test Score Calculator.exe
+obj\Debug\Test Score Calculator.xml
+obj\Debug\Test Score Calculator.pdb
