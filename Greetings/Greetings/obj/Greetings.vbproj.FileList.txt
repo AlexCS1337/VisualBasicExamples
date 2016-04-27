@@ -1,0 +1,10 @@
+bin\Debug\Greetings.exe
+bin\Debug\Greetings.pdb
+bin\Debug\Greetings.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+obj\Debug\Greetings.vbproj.GenerateResource.Cache
+obj\Debug\Greetings.exe
+obj\Debug\Greetings.xml
+obj\Debug\Greetings.pdb

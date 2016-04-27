@@ -1,0 +1,10 @@
+bin\Debug\Dice Counter.exe
+bin\Debug\Dice Counter.pdb
+bin\Debug\Dice Counter.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+obj\Debug\Dice Counter.vbproj.GenerateResource.Cache
+obj\Debug\Dice Counter.exe
+obj\Debug\Dice Counter.xml
+obj\Debug\Dice Counter.pdb
