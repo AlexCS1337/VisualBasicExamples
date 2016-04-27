@@ -1,0 +1,10 @@
+bin\Debug\First VB.NET Application.exe
+bin\Debug\First VB.NET Application.pdb
+bin\Debug\First_VB.NET_Application.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\First_VB.NET_Application.Form1.resources
+obj\Debug\First_VB.NET_Application.Resources.resources
+obj\Debug\First VB.NET Application.vbproj.GenerateResource.Cache
+obj\Debug\First VB.NET Application.exe
+obj\Debug\First_VB.NET_Application.xml
+obj\Debug\First VB.NET Application.pdb
