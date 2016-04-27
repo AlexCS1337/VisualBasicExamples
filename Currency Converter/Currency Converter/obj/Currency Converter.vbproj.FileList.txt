@@ -1,0 +1,10 @@
+bin\Debug\Currency Converter.exe
+bin\Debug\Currency Converter.pdb
+bin\Debug\Currency Converter.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+obj\Debug\Currency Converter.vbproj.GenerateResource.Cache
+obj\Debug\Currency Converter.exe
+obj\Debug\Currency Converter.xml
+obj\Debug\Currency Converter.pdb
