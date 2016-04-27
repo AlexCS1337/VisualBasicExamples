@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+bin\Debug\LolGame.exe
+bin\Debug\LolGame.pdb
+bin\Debug\LolGame.xml
+obj\Debug\LolGame.vbproj.GenerateResource.Cache
+obj\Debug\LolGame.exe
+obj\Debug\LolGame.xml
+obj\Debug\LolGame.pdb

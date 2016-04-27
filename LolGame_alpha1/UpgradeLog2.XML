@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LolGame_alpha1">
+</Property><Property Name="Solution File" Value="G:\Files\IPT\Programming\Visual Studio 2005\Projects\LolGame_alpha1\LolGame_alpha1.sln">
+</Property><Property Name="User Options File" Value="G:\Files\IPT\Programming\Visual Studio 2005\Projects\LolGame_alpha1\LolGame_alpha1.suo">
+</Property><Property Name="Date" Value="Monday, 7 July 2014">
+</Property><Property Name="Time" Value="16:23 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LolGame_alpha1.sln" Description="File successfully backed up as G:\Files\IPT\Programming\Visual Studio 2005\Projects\LolGame_alpha1\Backup1\LolGame_alpha1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LolGame_alpha1.suo" Description="File successfully backed up as G:\Files\IPT\Programming\Visual Studio 2005\Projects\LolGame_alpha1\Backup1\LolGame_alpha1.suo">
+</Event><Event ErrorLevel="2" Project="LolGame" Source="LolGame\LolGame.vbproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="" Source="LolGame_alpha1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LolGame_alpha1.sln" Description="Converted">
+</Event></UpgradeLog>

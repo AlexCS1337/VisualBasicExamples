@@ -1,0 +1,10 @@
+bin\Debug\Price Calculator.exe
+bin\Debug\Price Calculator.pdb
+bin\Debug\Price Calculator.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+obj\Debug\Price Calculator.vbproj.GenerateResource.Cache
+obj\Debug\Price Calculator.exe
+obj\Debug\Price Calculator.xml
+obj\Debug\Price Calculator.pdb
